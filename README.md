@@ -1,15 +1,25 @@
 # Janis Sprukts
 My homeworks
 
-[Lesson_2](janissweb.github.io/lesson_2/img/ "")     - Work with graphics.
+[Lesson_2](janissweb.github.io/lesson_2/img/ "")     - Work with graphic for developer.
 
-[Lesson 6.1](https://janissweb.github.io/Lesson_6.1/ "") - Position on CSS.
+[Lesson_3](janissweb.github.io/lesson_3/img/ "")     - Workspace settings.
 
-[Lesson 6.2](https://janissweb.github.io/Lesson_6.2/ "") - Position on CSS.
+[Lesson_4](janissweb.github.io/lesson_4/img/ "")     - Basic of HTML.
 
-[Lesson 7](https://janissweb.github.io/Lesson_7/ "") - First maket build.
+[Lesson_5](janissweb.github.io/lesson_5/img/ "")     - Basic of CSS.
 
-[Lesson 8](https://janissweb.github.io/Lesson_8/ "") - First maket build.
+[Lesson 6.1](https://janissweb.github.io/Lesson_6.1/ "") - Position in CSS.
 
-[Lesson 9](https://janissweb.github.io/lesson_9/ "") - Build with bootstrap.
+[Lesson 6.2](https://janissweb.github.io/Lesson_6.2/ "") - Position in CSS.
+
+[Lesson 7](https://janissweb.github.io/Lesson_7/ "") - First maket building.
+
+[Lesson 8](https://janissweb.github.io/Lesson_8/ "") - Maket building boost.
+
+[Lesson 9](https://janissweb.github.io/lesson_9/ "") - Maket building with Bootstrap.
+
+[Lesson 10](https://janissweb.github.io/lesson_10/ "") - Less procerssor for CSS.
+
+[Lesson 11](https://janissweb.github.io/lesson_11/ "") - Snippets.
 
