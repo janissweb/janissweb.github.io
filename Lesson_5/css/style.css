@@ -1,0 +1,27 @@
+body {
+  background-color: rgb(230, 240, 240);
+}
+
+h1 {
+  text-align: center;
+  border: 2px solid rgba(20, 20, 20, 0.5);
+  background-color: rgba(250, 220, 250, 0.5);
+}
+
+h2 {
+  text-align: center;
+}
+.frame {
+  border: 2px solid rgba(20, 20, 20, 0.5);
+  background-color: rgba(250, 220, 250, 0.5);
+}
+
+.oblique {
+  font-style: oblique;
+}
+.bold {
+  font-weight: bold;
+}
+.line-through {
+  text-decoration: line-through;
+}
