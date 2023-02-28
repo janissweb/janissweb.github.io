@@ -1,0 +1,23 @@
+* {
+	box-sizing: border-box;
+}
+
+html, body {
+	height: 100%;
+	margin: 0;
+}
+
+.box {
+	height: 100%;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.minibox {
+	width: 300px;
+	height: 400px;
+	background: #ffffff;
+	border: 2px solid #080808;
+	padding: 20px 30px;
+}
