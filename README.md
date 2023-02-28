@@ -5,9 +5,9 @@ My homeworks
 
 [Lesson_3](janissweb.github.io/lesson_3/img/ "")     - Workspace settings.
 
-[Lesson_4](janissweb.github.io/lesson_4/img/ "")     - Basic of HTML.
+[Lesson_4](https://janissweb.github.io/Lesson_4/ "")     - Basic of HTML.
 
-[Lesson_5](janissweb.github.io/lesson_5/img/ "")     - Basic of CSS.
+[Lesson_5](https://janissweb.github.io/Lesson_5/ "")     - Basic of CSS.
 
 [Lesson 6.1](https://janissweb.github.io/Lesson_6.1/ "") - Position in CSS.
 
