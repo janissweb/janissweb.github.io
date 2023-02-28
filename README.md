@@ -1,1 +1,2 @@
-# janissweb.github.io
+# Janis Sprukts
+My homeworks
