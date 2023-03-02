@@ -1,0 +1,87 @@
+body{
+	font-size: 12px;
+	font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.section {
+	
+	padding: 100px 125px;
+	width: 570px;
+	height: 570px;
+	background-image: url("/img/bg.png");
+}
+
+.form {
+	display: inline-block;
+	position: relative;
+	width: 320px;
+	height: 370px;
+	padding: 51px 0px 0px 28px;
+	border: 1px solid #cfdede;
+	background-color: #fff;
+}
+.form input {
+	display: block;
+	border: 1px solid #cfdede;
+	width: 262px;
+	height: 32px;
+	padding: 12px;
+	margin-top: 9px;
+	margin-bottom: 14px;
+	font-style: italic;
+	background-image: url("/img/bg.png");
+}
+
+span {
+	color: #6ac8c8;
+}
+
+p {
+	font-weight: 700;
+	margin-left: 1px;
+}
+
+.email {
+	margin-bottom: 9px;
+}
+.choise {
+	margin-bottom: 11px;
+}
+.confirm {
+	margin-top: 15px;
+	margin-bottom: 10px;
+}
+
+.form button {
+	margin-left: 1px;
+ 	border: 0;
+ 	background-color: #01c4c4;
+ 	text-transform: uppercase;
+ 	color: #fff;
+ 	font-weight: 700;
+}
+
+.btn-up {
+	position: absolute;
+	top: -4px;
+	width: 149px;
+	height: 25px;
+	border-radius: 0px;
+}
+
+.btn-bottom {
+	
+	font-size: 16px;
+	margin-top: 20px;
+	width: 260px;
+	height: 45px;
+	border-radius: 4px;
+}
+
+
+
+
+
+
+
