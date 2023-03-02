@@ -7,7 +7,7 @@ body{
 	padding: 100px 125px;
 	width: 570px;
 	height: 570px;
-	background-image: url('./img/bg.png');
+	background-image: url("/img/bg.png");
 }
 
 .form {
@@ -29,7 +29,7 @@ body{
 	margin-top: 9px;
 	margin-bottom: 14px;
 	font-style: italic;
-	background-image: url('./img/bg.png');
+	background-image: url("/img/bg.png");
 }
 
 span {
