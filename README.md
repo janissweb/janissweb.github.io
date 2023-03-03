@@ -11,7 +11,7 @@ My homeworks
 
 [Lesson 6.1](https://janissweb.github.io/Lesson_6.1/). - Position in CSS.
 
-[Lesson 6.2]https://janissweb.github.io/Lesson_6.2/). - Position in CSS.
+[Lesson 6.2](https://janissweb.github.io/Lesson_6.2/). - Position in CSS.
 
 [Lesson 7](https://janissweb.github.io/Lesson_7/). - First maket building.
 
