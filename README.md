@@ -11,13 +11,13 @@ My homeworks
 
 [Lesson 6.1](https://janissweb.github.io/Lesson_6.1/). - Position in CSS.
 
-[Lesson 6.2](https://janissweb.github.io/Lesson_6.2/). - Position in CSS.
+[Lesson 6.2]https://janissweb.github.io/Lesson_6.2/). - Position in CSS.
 
 [Lesson 7](https://janissweb.github.io/Lesson_7/). - First maket building.
 
 [Lesson 8](https://janissweb.github.io/Lesson_8/). - Maket building boost.
 
-[Lesson 9](https://janissweb.github.io/lesson_9/). - Maket building with Bootstrap.
+[Lesson 9](https://janissweb.github.io/Lesson_9/). - Maket building with Bootstrap.
 
 [Lesson 10](https://janissweb.github.io/lesson_10/). - Less procerssor for CSS.
 
