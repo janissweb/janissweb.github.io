@@ -30,3 +30,5 @@ My homeworks
 [Lesson 14](https://janissweb.github.io/Lesson_14/). - Add fonts to maket.
 
 [Practic 2](https://janissweb.github.io/Practic_2/). - First screen building.
+
+[Lesson 15](https://janissweb.github.io/Lesson_15/). - Pseido class & elemants.
