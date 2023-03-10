@@ -32,3 +32,5 @@ My homeworks
 [Practic 2](https://janissweb.github.io/Practic_2/). - First screen building.
 
 [Lesson 15](https://janissweb.github.io/Lesson_15/). - Pseido class & elemants.
+
+[Practic 3](https://janissweb.github.io/Practic_3/). - Adaptive screen building.
