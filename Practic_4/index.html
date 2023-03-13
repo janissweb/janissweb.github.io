@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="icon" href="../../../../favicon.ico">
+    <title>Automatic workflow</title>
+    <!-- Bootstrap core CSS -->
+    <link href="css/bootstrap.css" rel="stylesheet">
+    <link href="css/style.css" rel="stylesheet">
+  </head>
+
+  <body>
+
+    <main class="main">
+      <div class="container">   <!-- lai iedotu atstarpes no malām -->
+        <div class="header">    <!-- lai atdalītu augšējo daļu -->
+
+          <div class="row">     <!-- elementu režģis-->
+            <div class="col-lg-3 col-md-4 col-sm-12 col-xs-12">    <!-- col-xs-12 -->
+              <div class="logo">
+              <img src="img/logo.png" alt="Gypsolit">
+              </div>              
+            </div>
+
+          <div class="col-xl-2 offset-xl-4 col-lg-4 offset-lg-2 col-md-4 offset-md-0 col-sm-12 col-xs-12">  <!-- col-xs-12 -->
+            <div class="phone-block">
+              <a  class="phone-link" href="#">+7 495 771 05 08 </a>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-4 col-sm-12 col-xs-12">
+            <div class="wrap">
+              <div class="wrap-block">
+                <button class="button header-btn">
+              Get consultation
+            </button>
+              </div>
+            </div>
+          </div>          
+          </div>          
+        </div>
+        <div class="main-content">
+          <div class="row">
+            <div class="col-xl-6 col-lg-7 col-md-12">
+              <div class="main-title">
+                <h1>Automated wall <br> plastering</h1>
+                <p class="main-subtitle">Perflectly stright walls <br>in shortest time</p>
+                <span>
+                  Work price <br>
+                  from <strong>300</strong>$/m<msup>2</msup>
+                </span>
+                <strong class="main-trigger">
+                Pay after work!
+              </strong>
+              </div>
+            </div>
+            <div class="col-xl-4 offset-xl-2 col-lg-5 offset-lg-0 col-md-8 offset-md-2">
+              <div class="main-form">
+                <h2 class="main-form-header">For exact amount <br>order <strong>master at home</strong></h2>
+                <form action="#">
+                  <label for="#">Your name</label>
+                  <input class="main-form-input" type="text">
+                  <label for="#">Your phone number</label>
+                  <input class="main-form-input" type="text">
+                  <button class="main-form-btn button" type="submit">Order service</button>
+                  <small>Visit in same day*</small>
+                </form>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </main>
+
+    <section class="features">
+      <div class="container">
+        <h2 class="section-header">
+          Advantages to work with us
+        </h2>
+
+        <div class="features-slider">
+          <div class="features-block">
+            <div class="features-img">
+              <picture>
+                <source srcset="img/features/coin.svg" type="image/">
+                <img src="img/features/coin.png" alt="Pay by fact">
+              </picture>
+            </div>
+            <h3>Pay after work</h3>
+            <p>You pay for fulfilled work only when work is fulfilled. <br> No hiden fees and middle payments</p>           
+          </div>
+
+          <div class="features-block">
+            <div class="features-img">
+              <picture>
+                <source srcset="img/features/folder.svg" type="image/">
+                <img src="img/features/folder.png" alt="Crate deal">
+              </picture>
+            </div>
+            <h3>Make a contract</h3>
+            <p>We sign a contract with legal person before we start to work. <br> You can be sure that all contractual obligations will be fulfilled</p>           
+          </div>
+
+          <div class="features-block">
+            <div class="features-img">
+              <picture>
+                <source srcset="img/features/clock.svg" type="image/">
+                <img src="img/features/clock.png" alt="At time">
+              </picture>
+            </div>
+            <h3>Exatly on time</h3>
+            <p>We work strictly in accordance with indicated terms in the agreement. <br> If we delay you pay less.</p>           
+          </div>
+
+          <div class="features-block">
+            <div class="features-img">
+              <picture>
+                <source srcset="img/features/piggy.svg" type="image/">
+                <img src="img/features/piggy.png" alt="Save money">
+              </picture>
+            </div>
+            <h3>Save on materials</h3>
+            <p>We are structural unit of the buiding materials supplier company gicema.ru and we provide you best prices in market.</p>          
+          </div>
+          
+          
+          
+          
+        </div>
+      </div>
+    </section>
+
+
+
+  
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <!-- Connect slick slider styles -->
+    <link rel="stylesheet" href="slick/slick.css">
+    <link rel="stylesheet" href="slick/slick-theme.css">
+    <!-- slick slider biblioteka -->
+    <script src="slick/slick.min.js"></script>
+    <!-- Initialize slider -->
+    <script>
+      $(document).ready(function(){
+  $('.features-slider').slick({
+      infinite: true,
+      slidesToShow: 4,
+      slidesToScroll: 1,
+      responsive: [
+     
+    {
+      breakpoint: 991,
+      settings: {
+        slidesToShow: 2,
+        prevArrow: '<button class="prev arrow"></button>',
+        nextArrow: '<button class="next arrow"></button>',
+        slidesToScroll: 2
+      }
+    },
+    {
+      breakpoint: 767,
+      settings: {
+        slidesToShow: 1,
+        slidesToScroll: 1,
+        prevArrow: '<button class="prev arrow"></button>',
+        nextArrow: '<button class="next arrow"></button>'
+      }
+    }
+    // You can unslick at a given breakpoint now by adding:
+    // settings: "unslick"
+    // instead of a settings object
+  ]
+  });
+});
+    </script>
+    
+  </body>
+</html>
