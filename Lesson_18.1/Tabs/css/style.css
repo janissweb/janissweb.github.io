@@ -1,0 +1,147 @@
+@font-face {
+  font-family: myriad-pro;
+  src: url(../fonts/Myriad\ Pro\ Regular.ttf);
+}
+
+.container {
+  font-family: 'myriad-pro' sans-serif;
+  padding-left: 0;
+  padding-right: 0;
+  max-width: 800px;
+  min-height: 500px;
+  background: url(../img/bg.png); 
+}
+
+
+.nav-tabs .nav-link { 
+  margin-top: 20px;                   
+  margin-bottom: -1px;
+  border: none;
+  border-top-left-radius: 5px;       
+  border-top-right-radius: 5px;     
+  
+}
+
+.nav-link { 
+  padding: 0px;                
+  font-size: 24px;             
+  letter-spacing: -0.5px;
+}
+
+
+.nav-tabs {
+  border-bottom: none;           
+  padding-left: 112px;          
+}
+
+.nav-registration {
+  margin-left: 12px;             
+  width: 156px;
+}
+
+.nav-login {
+  width: 101px;
+}
+
+.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
+  color: #fff;
+  background-color: #03a5da;
+  border:none;
+  text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.776);
+  letter-spacing: -0.5px;
+}
+
+.tab-content {
+  background: rgb(0, 0, 0) ; 
+  display: flex;
+  margin: auto; 
+  width: 627px;
+  padding-top: 70px;
+  border-radius: 5px;
+  border: 24px solid #03a5da; 
+}
+
+.tab-form {
+  width: 485px; 
+  margin-top: auto;
+  margin-bottom: -24px;
+  margin-left: 40px;
+}
+
+.form-control {
+  background: url(../img/shape.png);
+  height: 60px;
+  padding-left: 25px; 
+  font-size: 24px;  
+  border: none;
+  color: #fff;
+}
+
+.form-first-up {
+  margin-bottom: 30px;
+}
+
+.form-second-up, .form-second-mid {
+  margin-bottom: 23px;
+}
+
+.form-control::placeholder { 
+  color: #fff;
+}
+
+.form-check {
+  padding-left: 25px; 
+}
+
+a {
+  display: block; 
+  margin-bottom: 48px;
+  font-size: 15px;
+  color: #a11702;
+}
+
+.form-check-input {
+  position: relative;
+  margin-left: 0;
+}
+
+.form-check-label {
+  font-size: 15px;
+  color: #4e4c4c; 
+}
+.form-check-accept {
+margin-top: -6px;
+}
+
+.btn-sign-in { 
+  padding: 0;
+  position: relative;
+  left: 451px;
+  top: -35px;
+  width: 127px;
+  height: 40px;
+  font-size: 24px;
+  background: rgb(127,5,1);
+  background: linear-gradient(90deg, rgba(127,5,1,1) 0%, rgba(185,27,2,1) 50%, rgba(127,5,1,1) 100%);
+  border: none;
+  border-radius: 0; 
+}
+
+.btn-sign-in:hover {
+  background: rgb(185,41,2);
+  background: linear-gradient(90deg, rgba(185,41,2,1) 0%, rgba(127,5,1,1) 50%, rgba(185,41,2,1) 100%); 
+}
+  
+.btn-primary:not(:disabled):not(.disabled).active, .btn-primary:not(:disabled):not(.disabled):active, .show>.btn-primary.dropdown-toggle {
+  background: rgb(185,41,2);
+  background: linear-gradient(90deg, rgba(185,41,2,1) 0%, rgba(127,5,1,1) 50%, rgba(185,41,2,1) 100%);
+  box-shadow: none;
+  border: none; 
+}
+
+.btn-sign-in:focus {
+  background: rgb(185,41,2);
+  background: linear-gradient(90deg, rgba(185,41,2,1) 0%, rgba(127,5,1,1) 50%, rgba(185,41,2,1) 100%);
+  box-shadow: none;
+  border: none;
+}
