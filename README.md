@@ -42,3 +42,7 @@ My homeworks
 [Lesson 17](https://janissweb.github.io/Lesson_17/). - Pop up windows.
 
 [Practic 5](https://janissweb.github.io/Practic_5/). - Pop up windows.
+
+[Lesson 18.1](https://janissweb.github.io/Lesson_18.1/). - Tabs.
+
+[Lesson 18.2](https://janissweb.github.io/Lesson_18.2/). - Collapse.
