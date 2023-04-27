@@ -46,3 +46,5 @@ My homeworks
 [Lesson 18.1](https://janissweb.github.io/Lesson_18.1/). - Tabs.
 
 [Lesson 18.2](https://janissweb.github.io/Lesson_18.2/). - Collapse.
+
+[Practic 6](https://janissweb.github.io/Practic_6/). - Add price block.
